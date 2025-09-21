@@ -120,3 +120,29 @@ backend/uploads/*
 .idea/
 *.swp
 *.swo
+
+# Environment variables
+.env
+.env.local
+
+# Dependencies
+node_modules/
+
+# Build output
+/dist
+/build
+/out
+
+# Logs
+*.log
+logs/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
